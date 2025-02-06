@@ -13,21 +13,21 @@ export const PROJECTS = [
     image: project1,
     description:
       "A fitness tracker web application allowing users to monitor activities, manage data offline, and track workouts.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+    technologies: ["React", "Node.js", "Express.js", "MongoDB"],
   },
   {
     title: "Task Management App",
     image: project2,
     description:
       "An application for managing tasks and projects, with features such as CRUD, assignment, and progress tracking.",
-    technologies: ["Rust", "PostgreSQL", "Docker"],
+    technologies: ["React", "PostgreSQL", "Docker"],
   },
   {
     title: "Portfolio Website",
     image: project3,
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
+    technologies: ["HTML", "CSS", "React", "Tailwind"],
   },
   {
     title: "Scrabble",
